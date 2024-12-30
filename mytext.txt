@@ -3,6 +3,8 @@ explain make a file and change to stages 2
 second day try for git
 second time change
 Number 2
+ignore
+
  
 
 
