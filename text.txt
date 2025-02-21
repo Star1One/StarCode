@@ -1,1 +1,4 @@
-Add a new text file.
+--  git pull origin main
+--  
+Message to change branch befor sent to git
+
