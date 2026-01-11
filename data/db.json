@@ -1,0 +1,23 @@
+
+{
+
+    "description":{
+        "status": true,
+        "message": "success",
+        "data": [
+        {
+             "id": 1, 
+             "name": "tomy",
+             "title": "news"          
+        },
+        {
+            "id": 2, 
+            "name": "sam",
+            "title": "time"
+            
+        }
+
+    ]
+
+    }
+}
