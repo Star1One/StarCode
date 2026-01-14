@@ -55,4 +55,4 @@
 
 ### 📸 Screenshots
 
-![Weather App Screenshot](images/weather2.jpg)
+![Weather App Screenshot](images/bookList.jpg)
