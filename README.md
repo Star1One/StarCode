@@ -21,12 +21,11 @@ Below is a clear, step-by-step beginner-friendly guide that shows exactly how to
 
 4. If you are using a different port, you need to update the URL in **origin** in the server.js file.
 
-5.- Please go to the project path on your system
+5. Please go to the project path on your system
 
-    Example:
-
-      D:\project\Book-List-Sql>node server.js
-      
+Example:
+```bash
+D:\project\Book-List-Sql>node server.js    
       
 6. Then open **Git Bash, CMD or PowerSell** in your project folder
 
@@ -40,18 +39,30 @@ Below is a clear, step-by-step beginner-friendly guide that shows exactly how to
 
 10. After installing Node, in **bash, cmd, powerSell** :
 
+---
+
+```markdown
 #### Install dependencies
 
-
+```bash
 npm install
-
 node server.js
+
 
 11. Run everything from server.js
 
 12. Add (attach) a SQL Server **database** file
 
+
+---
+
+```markdown
 13. In the Sql select and run database file(List), and open tables file select dbo.tblBookList.
+
+```sql
+USE [List];
+SELECT * FROM tblBookList;
+
 
 
 use [List]
@@ -85,5 +96,3 @@ select * from tblBookList
 ### 📸 Screenshots
 
 ![Weather App Screenshot](images/bookList.jpg)
-
-
