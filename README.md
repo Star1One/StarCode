@@ -24,8 +24,9 @@ Below is a clear, step-by-step beginner-friendly guide that shows exactly how to
 5.- Please go to the project path on your system
 
     Example:
-      ```bash
+
       D:\project\Book-List-Sql>node server.js
+      
       
 6. Then open **Git Bash, CMD or PowerSell** in your project folder
 
@@ -41,7 +42,7 @@ Below is a clear, step-by-step beginner-friendly guide that shows exactly how to
 
 #### Install dependencies
 
-```bash
+
 npm install
 
 node server.js
@@ -52,10 +53,10 @@ node server.js
 
 13. In the Sql select and run database file(List), and open tables file select dbo.tblBookList.
 
-```sql
-- use [List]
 
-- select * from tblBookList
+use [List]
+
+select * from tblBookList
 
 14. Now you can see the sql table
 
