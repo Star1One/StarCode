@@ -59,9 +59,9 @@ select * from tblBookList
 
 **13.** Now you can see the SQL table.
 
-**14.** Run **index.html** in the JavaScript App. 
+ **14.** Run **index.html** in the JavaScript App. 
 
-**15.** You will see the list of seven books from both the app and SQL Server table.
+ **15.** You will see the list of seven books from both the app and SQL Server table.
 
 **16.** Everything is now ready to start.
 
