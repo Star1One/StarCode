@@ -1,6 +1,4 @@
 
-# markdown
-
 # JavaScript & SQL Server App
 
 ## Add a book to the list
@@ -25,74 +23,5 @@ Below is a clear, step-by-step beginner-friendly guide that shows exactly how to
 
 Example:
 ```bash
-D:\project\Book-List-Sql>node server.js    
-      
-6. Then open **Git Bash, CMD or PowerSell** in your project folder
+D:\project\Book-List-Sql>node server.js
 
-7. Now run **node server.js** 
-
-8. If you don't have Node.js you need to install it
-
-9. How to install Node.js ?
-
-- 🔗 https://nodejs.org
-
-10. After installing Node, in **bash, cmd, powerSell** :
-
----
-
-```markdown
-#### Install dependencies
-
-```bash
-npm install
-node server.js
-
-
-11. Run everything from server.js
-
-12. Add (attach) a SQL Server **database** file
-
-
----
-
-```markdown
-13. In the Sql select and run database file(List), and open tables file select dbo.tblBookList.
-
-```sql
-USE [List];
-SELECT * FROM tblBookList;
-
-
-
-use [List]
-
-select * from tblBookList
-
-14. Now you can see the sql table
-
-14. Run **index.html** in JavaScript App 
-
-15. You can see the names of the seven books in the app form list as well as in the Sql Server table
-
-16. Now everything is ready to start
-
----
-
-#### ✨ The app advantage:
-
-- Save data in Sql Server table
-
-- Add book to list
-
-- Show and hide book list
-
-- Delete books
-
-- Search for books
-
----
-
-### 📸 Screenshots
-
-![Weather App Screenshot](images/bookList.jpg)
