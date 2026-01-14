@@ -1,5 +1,5 @@
 
-# JavaScript & SQL Server App
+# 📚 JavaScript & SQL Server Book List App
 
 ## Add a book to the list
 
@@ -13,30 +13,30 @@ Below is a clear, step-by-step beginner-friendly guide that shows exactly how to
 
 1. Please download app file and database file.
 
-2. You must use SQL Server authentication
+2. You must use SQL Server authentication.
 
-3. Please open the server.js file and set your SQL Server authentication username and password.
+3. Open the server.js file and set your SQL Server authentication username and password.
 
-4. If you are using a different port, you need to update the URL in **origin** in the server.js file.
+4. If you are using a different port, Update the URL in **origin** in the server.js file.
 
-5. Please go to the project path on your system
+5. Go to the project path on your system.
+
+6. Open **Git Bash, CMD or PowerSell** in your project folder.
 
 Example:
 ```bash
-D:\project\Book-List-Sql>node server.js    
-```
-    
-6. Then open **Git Bash, CMD or PowerSell** in your project folder
+cd D:\project\Book-List-Sql>
+node server.js
+``` 
+####Attention:
 
-7. Now run **node server.js** 
+7. If you don't have Node.js you need to install it.
 
-8. If you don't have Node.js you need to install it
-
-9. How to install Node.js ?
+8. How to install Node.js?
 
 - 🔗 https://nodejs.org
 
-10. After installing Node, in **bash, cmd, powerSell** :
+9. After installing Node, in **bash, cmd, powerSell** :
 
 #### Install dependencies
 
@@ -45,11 +45,11 @@ npm install
 node server.js
 ```
 
-11. Run everything from server.js
+10. Run everything from server.js.
 
-12. Add (attach) a SQL Server **database** file
+11. Add (attach) a SQL Server **database** file
 
-13. In the Sql select and run database file(List), and open tables file select dbo.tblBookList.
+12. In SQL Server, select and run database file(List), and open the tables file select dbo.tblBookList.
 
 ```sql
 use [List]
@@ -57,23 +57,23 @@ use [List]
 select * from tblBookList
 ```
 
-14. Now you can see the sql table
+13. Now you can see the SQL table.
 
-14. Run **index.html** in JavaScript App 
+14. Run **index.html** in the JavaScript App. 
 
-15. You can see the names of the seven books in the app form list as well as in the Sql Server table
+15. You will see the list of seven books from both the app and SQL Server table.
 
-16. Now everything is ready to start
+16. Everything is now ready to start.
 
 ---
 
-#### ✨ The app advantage:
+#### 🔹 App Advantage:
 
-- Save data in Sql Server table
+- Save data in SQL Server table
 
-- Add book to list
+- Add a book to the list
 
-- Show and hide book list
+- Show and hide the book list
 
 - Delete books
 
