@@ -6,7 +6,9 @@
 
  This book list app is built using **Vanilla JavaScript** and **SQL Server** to save data.
 
-## ⚙️ Configuration
+---
+
+### ⚙️ Configuration
 
 Below is a clear, step-by-step beginner-friendly guide that shows exactly how to do the following:
 
