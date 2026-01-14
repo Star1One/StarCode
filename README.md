@@ -26,7 +26,7 @@ Below is a clear, step-by-step beginner-friendly guide that shows exactly how to
     Example:
       ```bash
       D:\project\Book-List-Sql>node server.js
-      ```
+      
 6. Then open **Git Bash, CMD or PowerSell** in your project folder
 
 7. Now run **node server.js** 
@@ -53,10 +53,10 @@ node server.js
 13. In the Sql select and run database file(List), and open tables file select dbo.tblBookList.
 
 ```sql
-    use [List]
+- use [List]
 
-    select * from tblBookList
-```
+- select * from tblBookList
+
 14. Now you can see the sql table
 
 14. Run **index.html** in JavaScript App 
