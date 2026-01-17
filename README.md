@@ -4,8 +4,6 @@
 
 ## 📚 Adding books to the list using **json-server**
 
-This book list app is built using **React**.
-
 ---
 
 ### 🛠 Configuration
@@ -42,7 +40,7 @@ Everything is ready now.
 
 ### 📸 Screenshots
 
-![Weather App Screenshot](image/book-list.jpg)
+![Weather App Screenshot](images/book-lists.jpg)
 
 
 ---
