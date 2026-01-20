@@ -1,7 +1,7 @@
 
 
 
-# ![Calculator Icon](images/calculator.jpg) Calculator App
+#  Calculator App
 
 ## React app
 
@@ -11,7 +11,7 @@ This App provides a user-friendly interface and It supports basic arithmetic ope
 
 ---
 
-### ![Weather App Screenshot](images/futuer.jpg) Features:
+## 🔢 Features:
 
 - Addition, Subtraction, Multiplication, Division
 
@@ -86,5 +86,5 @@ This project is open-source and available under the MIT License.
 
 ### 📸 Screenshots
 
-![Weather App Screenshot](assimagesets/calc.jpg)
+![Weather App Screenshot](images/calc.jpg)
 
