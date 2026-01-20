@@ -11,7 +11,7 @@ This App provides a user-friendly interface and It supports basic arithmetic ope
 
 ---
 
-### 🔢 Features:
+### 🔢 Features
 
 - Addition, Subtraction, Multiplication, Division
 
