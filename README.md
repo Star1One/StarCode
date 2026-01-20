@@ -27,7 +27,7 @@ This App provides a user-friendly interface and It supports basic arithmetic ope
 
 ---
 
-### 🛠 Installation & Setup
+### 🛠 Installation
 
 1. Clone the repository
 
@@ -43,7 +43,7 @@ This App provides a user-friendly interface and It supports basic arithmetic ope
   npm run dev
 ```
 
-4. Open app in your browser
+5. Open the app in your browser
 
 ---
 
@@ -69,7 +69,7 @@ This App provides a user-friendly interface and It supports basic arithmetic ope
 
 ---
 
-### ⚠️ Known Limitations
+### ⚠️ Known Limitations:
 
 Operations are evaluated left-to-right
 
