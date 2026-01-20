@@ -55,9 +55,9 @@ This App provides a user-friendly interface and It supports basic arithmetic ope
 
 - When = is pressed:
 
--   The expression is parsed into numbers and operators
+    - The expression is parsed into numbers and operators
 
--   The calculation runs left-to-right
+    - The calculation runs left-to-right
 
 -   The result is rounded to avoid floating-point errors
 
