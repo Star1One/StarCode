@@ -59,13 +59,13 @@ This App provides a user-friendly interface and It supports basic arithmetic ope
 
     - The calculation runs left-to-right
 
--   The result is rounded to avoid floating-point errors
+    - The result is rounded to avoid floating-point errors
 
 - After calculation:
 
--   Pressing a number starts a new calculation
+    - Pressing a number starts a new calculation
 
--   Pressing an operator continues from the result
+    - Pressing an operator continues from the result
 
 ---
 
