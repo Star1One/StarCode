@@ -1,9 +1,9 @@
 
 
 
-#  Calculator App
+#  React Calculator App
 
-## React app
+## Introduction
 
 The React Calculator App is a web application.
 
@@ -11,7 +11,7 @@ This App provides a user-friendly interface and It supports basic arithmetic ope
 
 ---
 
-## 🔢 Features:
+### 🔢 Features:
 
 - Addition, Subtraction, Multiplication, Division
 
