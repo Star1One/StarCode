@@ -2,7 +2,7 @@
 
 # 🛒 Book Shop Website App
 
-## It’s a “design” for learning purposes.
+### It’s a “design” for learning purposes.
 
 This project is inspired by e-commerce bookstore designs for educational purposes.
 
@@ -35,6 +35,7 @@ A modern e-commerce web app for books and products, with dynamic cart, just show
   git clone https://github.com/yourusername/utility-shop-app.git
   cd Book-Shop-App
   npm install
+  npx json-server --watch _data/db.json --port 3001
   npm run dev
 ```
 
@@ -58,21 +59,21 @@ Open http://localhost:3001/home
 
 ### 🛠 Tech & Tools
 
-       - Framework: Next.js v16 + React v19
+  - Framework: Next.js v16 + React v19
 
-       - Language: TypeScript
+  - Language: TypeScript
 
-       - Styling: Tailwind CSS
+  - Styling: Tailwind CSS
 
-       - State: React Context API
+  - State: React Context API
 
-       - UI: React Hot Toast, React Icons, React Range
+  - UI: React Hot Toast, React Icons, React Range
 
-       - Pagination: react-paginate
+  - Pagination: react-paginate
 
-       - Server: JSON Server (mock API)
+  - Server: JSON Server (mock API)
 
-       - Auth: Cookie-based
+  - Auth: Cookie-based
 
 ---
 
@@ -89,25 +90,25 @@ Open http://localhost:3001/home
 
 ### 🔹 Components & Utilities
 
-        - AddToCartStoreItems – Cart actions with toast
+  - AddToCartStoreItems – Cart actions with toast
 
-        - ProductItem – Product display
+  - ProductItem – Product display
 
-        - RatingDisplay – Full/half stars
+  - RatingDisplay – Full/half stars
 
-        - ToastProps – Toast notifications
+  - ToastProps – Toast notifications
 
-        - ContextProvider – Cart context functions
+  - ContextProvider – Cart context functions
 
-        - Table – Discount display
+  - Table – Discount display
 
-        - TickSign – UI checkmark
+  - TickSign – UI checkmark
 
-        - bookBackgrounds – Dynamic book gradients
+  - bookBackgrounds – Dynamic book gradients
 
-        - formatCurrency – GBP formatting
+  - formatCurrency – GBP formatting
 
-        - Middleware – Protect dashboard routes
+  - Middleware – Protect dashboard routes
 
 ---
 
