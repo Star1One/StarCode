@@ -1,6 +1,6 @@
 
 ### 📸 Screenshots
 
-![Weather App Screenshot](images/home.jpg)
+![Weather App Screenshot](images/imaj.jpg)
 
 
