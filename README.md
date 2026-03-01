@@ -2,7 +2,7 @@
 
 # 🛒 Blue Stone News - Online Bookstore
 
-### It’s a design for learning purposes.
+It’s a design for learning purposes.
 
 This project is inspired by e-commerce bookstore designs for educational purposes.
 
@@ -11,7 +11,7 @@ No affiliation or connection with the real company.
 ---
 ## shop-react-app@0.1.0 dev
 
-## A modern online bookstore built with React, TypeScript, Tailwind CSS, and Vite, featuring product search, filters, a shopping basket, and detailed book pages.
+A modern online bookstore built with React, TypeScript, Tailwind CSS, and Vite, featuring product search, filters, a shopping basket, and detailed book pages.
 
 ---
 
@@ -98,7 +98,7 @@ Node.js v18+, npm
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/blue-stone-news.git
+git clone https://github.com/yourusername/online-book-store.git
 cd Online-book-store
 
 ```
@@ -146,6 +146,8 @@ TailwindCSS Customization
 
 #### Screenshot
 ![Home Page](public/images-pages/home.jpg)
+
+
 
 
 
