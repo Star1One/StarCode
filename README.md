@@ -112,7 +112,7 @@ This project uses a mock JSON server at `http://localhost:3001`. endpoints:
 
 To see images of some of the BookStore pages, visit the folder below:
 
-public/images-pages
+`public/images-pages`
 
 ---
 
@@ -122,7 +122,7 @@ public/images-pages
 
 ---
 
-#### Screenshot
+#### 📸 Screenshot
 ![Home Page](/images-pages/home.jpg)
 
 
