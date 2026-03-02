@@ -124,7 +124,7 @@ To see images of some of the BookStore pages, visit the folder below:
 ---
 
 #### 📸 Screenshot
-![Home Page](/images/shop.jpg)
+![Home Page](public/images/shop.jpg)
 
 
 
